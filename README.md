@@ -18,7 +18,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add the following line to your capistrano recipe:
+
+    require 'aversion/capistrano'
 
 ## Contributing
 
